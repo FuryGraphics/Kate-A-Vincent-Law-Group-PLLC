@@ -36,7 +36,7 @@ const practiceCards = [
 ];
 
 const whyHireUs = [
-  "Local Broward County experience — we know the courts, the judges, and the process",
+  "Local Broward County focus — rooted in the community we serve",
   "Direct attorney access — you work with Kate, not a paralegal",
   "Free initial consultation — no cost to discuss your case",
   "Flat fee and contingency fee options available depending on case type",

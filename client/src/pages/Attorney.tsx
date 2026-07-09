@@ -69,7 +69,7 @@ export default function Attorney() {
                 style={{ border: "1px solid rgba(201,168,76,0.25)" }}
               >
                 <img
-                  src="/manus-storage/kate-vincent-photo_26c1ef22.png"
+                  src="/manus-storage/kate-new.jpeg"
                   alt="Attorney Kate Abia Vincent, Kate A Vincent Law Group PLLC, Hollywood FL"
                   className="w-full object-cover"
                   loading="lazy"
@@ -114,7 +114,7 @@ export default function Attorney() {
               </Reveal>
               <Reveal delay={0.1}>
                 <p className="text-base mb-4" style={{ color: "#C8C0B0" }}>
-                  Attorney Kate Abia Vincent founded Kate A Vincent Law Group PLLC after years of experience in the Florida legal system, driven by a simple but powerful belief: every person facing a legal crisis deserves a skilled, dedicated attorney who will fight for them personally — not pass them off to a paralegal or junior associate.
+                  Attorney Kate Abia Vincent founded Kate A Vincent Law Group PLLC driven by a simple but powerful belief: every person facing a legal crisis deserves a skilled, dedicated attorney who will fight for them personally — not pass them off to a paralegal or junior associate.
                 </p>
                 <p className="text-base mb-4" style={{ color: "#C8C0B0" }}>
                   Licensed to practice in the State of Florida, Kate has built her practice around three core areas: criminal defense, personal injury, and family law. She understands that these are not just legal matters — they are defining moments in her clients' lives. A criminal charge can threaten your freedom. A serious injury can upend your family's financial security. A divorce or custody battle can reshape your children's future. Kate approaches every case with that weight in mind.

@@ -86,12 +86,12 @@ const testimonials = [
 export default function Home() {
   return (
     <PageLayout
-      title="Hollywood FL Criminal Defense, Injury & Family Law Attorney | Kate A Vincent Law Group"
+      title="Hollywood FL Criminal Defense, Personal Injury & Family Law Attorney | Kate A Vincent Law Group"
       description="Kate A Vincent Law Group PLLC — aggressive criminal defense, personal injury, and family law representation in Hollywood, FL. Free consultation. Call (786) 709-3423."
     >
       <HeroSection
-        h1="Hollywood, FL Criminal Defense, Injury & Family Law Attorney"
-        subhead="Aggressive representation for criminal, injury, and family law matters across Broward County. Your freedom, your family, your future — we fight for all of it."
+        h1="Hollywood, FL Criminal Defense, Personal Injury & Family Law Attorney"
+        subhead="Aggressive representation for criminal, personal injury, and family law matters across Broward County. Your freedom, your family, your future — we fight for all of it."
         backgroundImage="/manus-storage/hero-main_a33af5b3.jpg"
         isHome
         ctas={[
@@ -131,7 +131,7 @@ export default function Home() {
                 style={{ border: "1px solid rgba(201,168,76,0.2)" }}
               >
                 <img
-                  src="/manus-storage/kate-vincent-photo_26c1ef22.png"
+                  src="/manus-storage/kate-new.jpeg"
                   alt="Attorney Kate Abia Vincent"
                   className="w-full object-cover"
                   style={{ maxHeight: "480px", objectPosition: "top" }}
@@ -156,7 +156,7 @@ export default function Home() {
               </Reveal>
               <Reveal delay={0.1}>
                 <p className="text-base mb-4" style={{ color: "#C8C0B0" }}>
-                  Attorney Kate Abia Vincent founded Kate A Vincent Law Group PLLC with one mission: to give every client the aggressive, personal representation they deserve. Licensed in Florida, Kate brings years of courtroom experience to criminal defense, personal injury, and family law matters throughout Broward County.
+                  Attorney Kate Abia Vincent founded Kate A Vincent Law Group PLLC with one mission: to give every client the aggressive, personal representation they deserve. Licensed in Florida, Kate handles criminal defense, personal injury, and family law matters throughout Broward County with dedication and tenacity.
                 </p>
                 <p className="text-base mb-6" style={{ color: "#C8C0B0" }}>
                   When you hire Kate, you work directly with Kate — not a paralegal, not a junior associate. She believes every client deserves direct attorney access and honest communication from day one.

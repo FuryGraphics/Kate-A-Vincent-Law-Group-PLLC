@@ -190,8 +190,8 @@ export function CTABand({ headline, subtext }: { headline?: string; subtext?: st
 // ─── Trust Bar ────────────────────────────────────────────────────────────────
 export function TrustBar() {
   const stats = [
-    { number: "15+", label: "Years of Experience" },
-    { number: "500+", label: "Cases Handled" },
+    { number: "100%", label: "Personal Attention" },
+    { number: "1-on-1", label: "Direct Attorney Access" },
     { number: "Free", label: "Initial Consultation" },
     { number: "24/7", label: "Phone Available" },
   ];

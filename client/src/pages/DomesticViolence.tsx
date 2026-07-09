@@ -95,7 +95,7 @@ export default function DomesticViolence() {
                 Florida takes domestic violence charges extremely seriously. Unlike many other states, Florida law allows prosecutors to pursue domestic violence cases even when the alleged victim does not want to press charges. An arrest can result in mandatory overnight detention, a no-contact order that removes you from your home, loss of firearm rights, and a permanent criminal record.
               </p>
               <p className="text-base mb-4" style={{ color: "#C8C0B0" }}>
-                Domestic violence charges are often filed based on one person's word, and false accusations are not uncommon. Whether you are facing genuine misunderstandings, exaggerated claims, or outright false allegations, you deserve a vigorous defense. Attorney Kate Abia Vincent has the experience and determination to challenge the evidence, expose inconsistencies, and fight for your rights.
+                Domestic violence charges are often filed based on one person's word, and false accusations are not uncommon. Whether you are facing genuine misunderstandings, exaggerated claims, or outright false allegations, you deserve a vigorous defense. Attorney Kate Abia Vincent has the determination to challenge the evidence, expose inconsistencies, and fight for your rights.
               </p>
               <p className="text-base" style={{ color: "#C8C0B0" }}>
                 Beyond the criminal case, a domestic violence charge can affect your child custody rights, your employment, and your ability to possess firearms. Kate understands the full scope of these consequences and fights on every front.
